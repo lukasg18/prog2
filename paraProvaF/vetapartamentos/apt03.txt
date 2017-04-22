@@ -1,0 +1,5 @@
+academia,1
+andar,13
+garagem,2
+iptu,3
+valor,6

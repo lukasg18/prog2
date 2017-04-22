@@ -1,0 +1,10 @@
+bateria
+cache
+cpu
+disco
+peso
+pl-video
+ssd
+tela
+usb
+hdmi

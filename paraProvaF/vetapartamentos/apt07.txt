@@ -1,0 +1,9 @@
+academia,1
+area,3
+comodos,6
+condominio,2
+iptu,4
+piscina,1
+quartos,5
+valor,4
+varanda,1

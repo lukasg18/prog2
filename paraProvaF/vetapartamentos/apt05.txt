@@ -1,0 +1,9 @@
+academia,1
+andar,8
+banheiros,2
+comodos,6
+condominio,3
+piscina,1
+quartos,4
+valor,8
+varanda,1

@@ -1,0 +1,6 @@
+banheiros,3
+comodos,3
+garagem,2
+piscina,1
+quartos,5
+valor,8

@@ -1,0 +1,9 @@
+andar,1
+area,4
+banheiros,3
+comodos,4
+condominio,4
+elevador,1
+garagem,1
+iptu,2
+quartos,4

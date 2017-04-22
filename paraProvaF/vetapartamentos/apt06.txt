@@ -1,0 +1,7 @@
+andar,7
+area,4
+banheiros,4
+comodos,5
+condominio,3
+piscina,1
+valor,4

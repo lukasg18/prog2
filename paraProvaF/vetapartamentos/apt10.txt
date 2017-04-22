@@ -1,0 +1,7 @@
+andar,9
+banheiros,2
+comodos,7
+condominio,3
+iptu,1
+valor,6
+varanda,1

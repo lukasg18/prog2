@@ -1,0 +1,10 @@
+academia,1
+andar,10
+banheiros,3
+comodos,3
+garagem,2
+iptu,4
+piscina,1
+quartos,3
+valor,2
+varanda,1
